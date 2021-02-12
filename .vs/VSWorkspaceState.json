@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\game",
-    "\\game\\unamed"
+    "\\Assets",
+    "\\Assets\\Scripts"
   ],
-  "SelectedNode": "\\game",
+  "SelectedNode": "\\Assets\\Scripts\\mousseController.cs",
   "PreviewInSolutionExplorer": false
 }
