@@ -20,8 +20,9 @@ public class EnemyAI : MonoBehaviour
 
     void follow()
     {
+        /*
         GameObject head = this.gameObject.transform.GetChild(0).gameObject;
         Quaternion rotation = Quaternion.LookRotation(head.transform.position - transform.position, transform.TransformDirection(Vector3.up));
-        transform.rotation = new Quaternion(0, 0, rotation.z, rotation.w);
+        transform.rotation = new Quaternion(0, 0, rotation.z, rotation.w);*/
     }
 }

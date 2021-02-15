@@ -75,12 +75,15 @@
     <Compile Include="Assets\Scripts\EnemyAI.cs" />
     <Compile Include="Assets\Scripts\EnemyController.cs" />
     <Compile Include="Assets\Scripts\EnemyH.cs" />
+    <Compile Include="Assets\Scripts\Goal.cs" />
     <Compile Include="Assets\Scripts\HSBcolor.cs" />
     <Compile Include="Assets\Scripts\Launcher.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\MenuManager.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\Particle.cs" />
+    <Compile Include="Assets\Scripts\RoomListIItem.cs" />
+    <Compile Include="Assets\Scripts\RoomListItem.cs" />
     <Compile Include="Assets\Scripts\SpriteController.cs" />
     <Compile Include="Assets\Scripts\mousseController.cs" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyH : MonoBehaviour
 {
-
+    /*
     public float RotateSpeed = 2.5f;
     public float Radius = 0.1f;
     public Transform body;
@@ -24,5 +24,5 @@ public class EnemyH : MonoBehaviour
         var offset = new Vector2(Mathf.Sin(_angle), Mathf.Cos(_angle)) * Radius;
         _centre = body.transform.position;
         transform.position = _centre + offset;
-    }
+    }*/
 }
