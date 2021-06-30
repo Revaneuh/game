@@ -102,7 +102,7 @@ public class Movement : MonoBehaviour
         }
         else 
         {
-            _Avelo = rb.angularVelocity;
+            
         }
     }
 
